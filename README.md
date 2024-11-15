@@ -1,1 +1,2 @@
 # GIT
+Git learning purpose
