@@ -1,2 +1,3 @@
 This has to be reset
 This is the Sample file1
+This ia comparision lecture
